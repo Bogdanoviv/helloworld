@@ -26,10 +26,8 @@ class GoodDogTestDrive {
         gooddog two = new gooddog();
         two.setSize(8);
         System.out.println("Первая собака:" + one.getSize());
-        System.out.println("Вторая собака:" + two.getSize());
-        one.bark();
-        two.bark();
         System.out.println("Проверка GIT");
+        System.out.println ("new1;");
         }
 }
 
